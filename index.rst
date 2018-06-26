@@ -1,7 +1,8 @@
-.. F5 orchestration introduction lab using vRO.
-
 F5 Orchestration using vMWare vRO and BlueMedora plugin!
 ========================================================
+
+Introduction
+——————
 
 This is just a simple introduction to F5 Orchestration using the vRO BlueMedora plugin. In the following workflow We will create a simple Load Balancing configuration in order to get familiar with vRO and the BM plugin.
 * Devices are already up and running, licenced, provisionned and attached to vRO
@@ -21,26 +22,16 @@ Contents:
    :maxdepth: 2
    :caption: introduction
 
-   introduction/intro
-   introduction/Lab Architecture
+   introduction/intro.rst
+   introduction/lab-architecture.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: labs
 
-   labs/Task1: Access the vRO Environment
-   labs/Task2: Overview of the vRO Interface
-   labs/Task3: Create your custom workflow
+   labs/labs/task1_access-vRO.rst
+   labs/task2_overview.rst
+   labs/task3_create_workflow.rst
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Appendix
 
-   Appendix/appendix
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+This is just an introduction. If you have any questions or want to dig further, please contact your F5 sales team.
