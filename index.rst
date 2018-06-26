@@ -2,7 +2,7 @@ F5 Orchestration using vMWare vRO and BlueMedora plugin!
 ========================================================
 
 Introduction
-——————
+------------
 
 This is just a simple introduction to F5 Orchestration using the vRO BlueMedora plugin. In the following workflow We will create a simple Load Balancing configuration in order to get familiar with vRO and the BM plugin.
 * Devices are already up and running, licenced, provisionned and attached to vRO
@@ -16,7 +16,8 @@ The workflow We will create aims to create:
 There are much more capabilities provided by the BM plugin but it is not covered in this introduction lab
 
 
-Contents:
+Table of Contents:
+-----------------
 
 .. toctree::
    :maxdepth: 2
