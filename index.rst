@@ -19,18 +19,18 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Introduction
+   :caption: introduction
 
-   introduction/Overview
+   introduction/intro
    introduction/Lab Architecture
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs
+   :caption: labs
 
-   labs/taks1
-   labs/task2
-   labs/task3
+   labs/Task1: Access the vRO Environment
+   labs/Task2: Overview of the vRO Interface
+   labs/Task3: Create your custom workflow
 
 .. toctree::
    :maxdepth: 2
@@ -44,4 +44,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
